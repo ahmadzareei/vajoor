@@ -1,4 +1,4 @@
-# Vajoor [persian wordle]
+# [Vajoor](https://www.vaajoor.ir/) (the persian version of wordle)
 
 In this python script, we find the best first guess for [Vajoor](https://www.vaajoor.ir/) (Persian version of Wrodle).
 
